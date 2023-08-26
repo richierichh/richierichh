@@ -22,8 +22,8 @@ Full Stack Developer
 
 4A CS & Business @Wilfrid Laurier University 
 **Work: 💼** 
-Civiconnect - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components 
-Government of Ontario - Built multiple UI friendly apps to automate business processes and migrated data pipelines
+* Civiconnect - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components 
+* Government of Ontario - Built multiple UI friendly apps to automate business processes and migrated data pipelines
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my portfolio at [My Portfolio](http://richardliao.me)
