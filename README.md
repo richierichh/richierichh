@@ -7,6 +7,7 @@ Full Stack Developer
 4A CS & Business @Wilfrid Laurier University 
 
 **Work: 💼** 
+**Business Systems Analyst @ CIBC Capital Markets** - Spearheading the optimization of business processes through comprehensive systems analysis and solution-driven recommendations
 
 **Web Developer @ Civiconnect** - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
 
