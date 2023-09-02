@@ -7,6 +7,7 @@ Full Stack Developer
 4A CS & Business @Wilfrid Laurier University 
 
 **Work: 💼** 
+
 **Business Systems Analyst @ CIBC Capital Markets** - Spearheading the optimization of business processes through comprehensive systems analysis and solution-driven recommendations
 
 **Web Developer @ Civiconnect** - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
@@ -15,7 +16,7 @@ Full Stack Developer
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my portfolio at [My Portfolio](http://richardliao.me)
-*   ✉️  You can contact me at [richard.lyzx@gmail.com](mailto:richard.lyzx@gmail.com)
+*   ✉️  You can contact me at [richard.lyzx@gmail.com](mailto:richardliao2002@gmail.com)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
 
