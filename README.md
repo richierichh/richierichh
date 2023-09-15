@@ -15,7 +15,7 @@ Full Stack Developer
 **Software Developer @ Government of Ontario** - Built multiple UI friendly apps to automate business processes and migrated data pipelines
 
 *   🌍  I'm based in Toronto
-*   🖥️  See my portfolio at [My Portfolio](https://personal-website-host-richierichh.vercel.app/)
+*   🖥️  See my website at [My Website](https://personal-website-host-richierichh.vercel.app/)
 *   ✉️  You can contact me at [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
