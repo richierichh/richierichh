@@ -16,7 +16,7 @@ Full Stack Developer
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my portfolio at [My Portfolio](http://richardliao.me)
-*   ✉️  You can contact me at [richard.lyzx@gmail.com](mailto:richardliao2002@gmail.com)
+*   ✉️  You can contact me at [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
 
