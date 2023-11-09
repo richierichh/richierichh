@@ -10,11 +10,11 @@ Full Stack Developer
 
 Software Developer @ Ceridian (January 2024) - Working on the Dayforce Management Team using C#, React and SQL
 
-**Software Developer @ CIBC Capital Markets (September 2023 - December 2023) ** - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
+Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
-**Web Developer @ Civiconnect (January 2023 - April 2023) ** - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
+Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
 
-**Software Developer @ Government of Ontario (January 2023 - April 2023) ** - Built multiple UI friendly apps to automate business processes and migrated data pipelines
+Software Developer @ Government of Ontario (January 2023 - April 2023) - Built multiple UI friendly apps to automate business processes and migrated data pipelines
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my website at [My Website](https://personal-website-host-richierichh.vercel.app/)
