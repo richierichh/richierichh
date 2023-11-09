@@ -4,11 +4,11 @@ Hi 👋 My name is Richard Liao.
 Full Stack Developer
 
 
-4A CS & Business @Wilfrid Laurier University 
+4A Computer Science & Business @Wilfrid Laurier University 
 
 **Work: 💼** 
 
-**Business Systems Analyst @ CIBC Capital Markets** - Spearheading the optimization of business processes through comprehensive systems analysis and solution-driven recommendations
+**Software Developer @ CIBC Capital Markets** - Developing a machine learning chatbot to take text prompts to automate sql queries for the FIT database of live trades 
 
 **Web Developer @ Civiconnect** - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
 
