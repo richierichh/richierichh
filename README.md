@@ -10,6 +10,8 @@ Full Stack Developer
 
 **Software Developer @ CIBC Capital Markets** - Developing a machine learning chatbot to take text prompts to automate sql queries for the FIT database of live trades 
 
+**Software Developer @ CIBC Capital Markets** - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
+
 **Web Developer @ Civiconnect** - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
 
 **Software Developer @ Government of Ontario** - Built multiple UI friendly apps to automate business processes and migrated data pipelines
