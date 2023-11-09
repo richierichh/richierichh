@@ -8,7 +8,7 @@ Full Stack Developer
 
 **Work: 💼** 
 
-**Software Developer @ Ceridian ** - Working on the Dayforce Management Team using C#, React and SQL
+Software Developer @ Ceridian  - Working on the Dayforce Management Team using C#, React and SQL
 
 **Software Developer @ CIBC Capital Markets** - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
