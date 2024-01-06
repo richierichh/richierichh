@@ -7,7 +7,9 @@ Full Stack Developer
 4A Computer Science & Business @Wilfrid Laurier University 
 
 **Work: 💼** 
+
 Current - Software Developer @ Ceridian Dayforce (January 2023 - August 2023) - Working on Dayforce Management Team using React, C# and SQL.
+
 Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
 Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
