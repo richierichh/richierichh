@@ -17,7 +17,7 @@ Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for bus
 Software Developer @ Government of Ontario (January 2023 - April 2023) - Built multiple UI friendly apps to automate business processes and migrated data pipelines
 
 *   🌍  I'm based in Toronto
-*   🖥️  See my website at [My Website](https://personal-website-host-richierichh.vercel.app/)
+*   🖥️  See my website at [My Website](https://richardliao.me)
 *   ✉️  You can contact me at [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
