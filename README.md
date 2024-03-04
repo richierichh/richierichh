@@ -8,7 +8,7 @@ Full Stack Developer
 
 **Work: 💼** 
 
-Currently: Software Developer @ Ceridian Dayforce (January 2023 - August 2023) - Working on Dayforce Management Team using React, C# and SQL.
+Currently: Software Developer @ Ceridian Dayforce (January 2024 - August 2024) - Working on Dayforce Management Team using React, C# and SQL.
 
 Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
