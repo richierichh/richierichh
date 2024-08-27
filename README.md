@@ -8,7 +8,7 @@ Full Stack Developer
 
 **Work: 💼** 
 
-Currently: Software Developer @ Ceridian Dayforce (January 2024 - August 2024) - Working on Dayforce Management Team using React, C# and SQL.
+Software Developer @ Dayforce (January 2024 - August 2024) - Worked on the scheduling team. I fixed bugs and converted Fitnesse test scripts to SpecFlow using React, C# and SQL.
 
 Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
@@ -17,7 +17,7 @@ Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for bus
 Software Developer @ Government of Ontario (January 2023 - April 2023) - Built multiple UI friendly apps to automate business processes and migrated data pipelines
 
 *   🌍  I'm based in Toronto
-*   🖥️  See my website at [My Website](https://richardliao.me)
+*   🖥️  See my website at [My Website](https://richardliao.ca)
 *   ✉️  You can contact me at [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
