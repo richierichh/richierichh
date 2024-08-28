@@ -10,7 +10,7 @@ Full Stack Developer
 
 Software Developer @ Dayforce (January 2024 - August 2024) - Worked on the scheduling team. I fixed bugs and converted Fitnesse test scripts to SpecFlow using React, C# and SQL.
 
-Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developing a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
+Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developed a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
 
 Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
 
