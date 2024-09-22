@@ -18,7 +18,7 @@ Software Developer @ Government of Ontario (January 2023 - April 2023) - Built m
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my website at [My Website](https://richardliao.ca)
-*   ✉️  You can contact me at [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com)
+*   ✉️  You can contact me at my work email [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com) or school email  [liao3480@mylaurier.ca](mailto:liao3480@mylaurier.ca)
 *   🧠  I'm learning Typescript and full stack development
 ### Skills
 
