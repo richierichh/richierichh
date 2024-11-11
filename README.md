@@ -3,8 +3,7 @@ Hi 👋 My name is Richard Liao.
 --------------
 Full Stack Developer
 
-
-4A Computer Science @Wilfrid Laurier University 
+Computer Science @Wilfrid Laurier University 
 
 **Work: 💼** 
 
