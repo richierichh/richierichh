@@ -3,22 +3,14 @@ Hi 👋 My name is Richard Liao.
 --------------
 Full Stack Developer
 
-Computer Science @Wilfrid Laurier University 
+Bachelors of Computer Science @Wilfrid Laurier University 
 
 **Work: 💼** 
 
-Software Developer @ Dayforce (January 2024 - August 2024) - Worked on the scheduling team. I fixed bugs and converted Fitnesse test scripts to SpecFlow using React, C# and SQL.
-
-Software Developer @ CIBC Capital Markets (September 2023 - December 2023) - Developed a machine learning chatbot using python to take user text prompts to automate sql queries for the FIT database of live trades 
-
-Web Developer @ Civiconnect (January 2023 - April 2023) - Built websites for businesses and implemented strapi (headless cms) for easy modifications of web components
-
-Software Developer @ Government of Ontario (January 2023 - April 2023) - Built multiple UI friendly apps to automate business processes and migrated data pipelines
-
 *   🌍  I'm based in Toronto
 *   🖥️  See my website at [My Website](https://richardliao.ca)
-*   ✉️  You can contact me at my work email [richardliao2002@gmail.com](mailto:richardliao2002@gmail.com) or school email  [liao3480@mylaurier.ca](mailto:liao3480@mylaurier.ca)
-*   🧠  I'm learning Typescript and full stack development
+*   ✉️  You can contact me at my work email [liaorichard221@gmail.com](mailto:liaorichard221@gmail.com) or school email  [liao3480@mylaurier.ca](mailto:liao3480@mylaurier.ca)
+*   🧠  I'm currently learning Typescript and full stack development
 ### Skills
 
 
