@@ -1,9 +1,9 @@
 
 Hi 👋 My name is Richard Liao.
 --------------
-Full Stack Developer
+Software Engineer
 
-Bachelors of Computer Science @Wilfrid Laurier University 
+Master of Computer Science @georgia tech
 
 **Work: 💼** 
 
