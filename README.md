@@ -4,7 +4,9 @@ Hi 👋 My name is Richard Liao.
 Software Engineer
 
 Master of Computer Science @georgia tech
+Bachelors of Computer Science @wilfrid laurier university
 
+Previously worked at Dayforce and CIBC CM
 **Work: 💼** 
 
 *   🌍  I'm based in Toronto
