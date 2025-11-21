@@ -1,7 +1,6 @@
 
 Hi 👋 My name is Richard Liao.
 --------------
-Software Engineer
 
 Master of Computer Science @georgia tech
 
