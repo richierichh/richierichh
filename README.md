@@ -2,8 +2,6 @@
 Hi 👋 My name is Richard Liao.
 --------------
 
-Master of Computer Science @georgia tech
-
 Bachelors of Computer Science @wilfrid laurier university
 
 Previously worked at Dayforce and CIBC CM
